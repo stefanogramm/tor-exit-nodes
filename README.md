@@ -1,2 +1,2 @@
 # tor-exit-nodes
-Tor Exit Nodes
+A list of Tor Exit Nodes
